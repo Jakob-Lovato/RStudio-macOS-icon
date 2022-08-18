@@ -1,7 +1,7 @@
 # RStudio-macOS-icon
-Custom icon for RStudio to match macOS icon design
+Custom icon for RStudio to match macOS icon design made in Figma.
 
-A replacement icon for RStudio to match the icon design theme on macOS. Created using Figma.
+A replacement icon for RStudio to match the icon design theme on macOS.
 
 Preview of icon:
 
